@@ -10,3 +10,6 @@ Includes:
 -nunchauku
 -sageattention
 -numpy 1.26.4
+
+
+Portable builds are avaiable here: https://huggingface.co/marduk191/Comfyui_windows_portable_builds
